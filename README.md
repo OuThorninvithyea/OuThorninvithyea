@@ -69,14 +69,47 @@ Passionate **Software Engineer** with 2+ years of experience in full-stack web d
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | React, Next.js, Vue 3, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS |
-| **Backend** | Go (Gin), Node.js |
-| **UI/UX** | Figma, Responsive Design, Accessibility (a11y), Design Systems |
-| **Testing & Perf** | Lighthouse Optimization, Code Debugging |
-| **AI & MLOps** | LLM Integration, Prompt Engineering, RAG Pipelines, Model Fine-tuning |
-| **Tools** | Git/GitHub, VS Code, NPM, ESLint, Vite |
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-0096D6?style=flat-square&logo=go&logoColor=white)
+
+### Software Engineering
+`Problem Solving` `Debugging` `Data Structures` `Design Patterns` `Clean Code` `Code Review`
+
+### UI/UX Engineering
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+`Responsive Design` `Accessibility (a11y)` `Design Systems` `Framer Motion`
+
+### Testing & Performance
+`React Testing Library` `Lighthouse Optimization` `Code Debugging` `Performance Optimization`
+
+### AI & MLOps
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
+
+`LLM Integration` `Prompt Engineering` `RAG Pipelines` `Model Fine-tuning` `Predictive Analytics` `AI Ethical Guidelines` `Data Governance` `MLOps Lifecycle` `Explainable AI (XAI)` `Model Drift Monitoring` `Sentiment Analysis (NLP)` `CI/CD for AI Models`
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Warp](https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+`Chrome DevTools` `React Native` `Expo` `Firebase`
 
 ---
 
