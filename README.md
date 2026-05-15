@@ -83,8 +83,12 @@ Passionate **Software Engineer** with 2+ years of experience in full-stack web d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OuThorninvithyea&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuThorninvithyea&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OuThorninvithyea&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OuThorninvithyea&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OuThorninvithyea&theme=github_dark" width="45%" />
 </p>
 
 ---
