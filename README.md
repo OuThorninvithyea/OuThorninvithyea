@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cv-ou-thorninvithyea-fvkg.vercel.app/favicon.ico" width="80" />
+  <img src="https://avatars.githubusercontent.com/u/100029619?v=4" width="100" style="border-radius: 50%;" />
   <h1>Ou Thorninvithyea</h1>
   <p>
     <a href="https://cv-ou-thorninvithyea-fvkg.vercel.app/">
